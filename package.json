@@ -1,5 +1,5 @@
 {
-  "name": "@v6l/common",
+  "name": "@v6l/ticketing-common",
   "version": "1.0.0",
   "description": "Common libraries for ticketing microservices",
   "main": "index.js",
