@@ -1,0 +1,14 @@
+{
+  "name": "@v6l/common",
+  "version": "1.0.0",
+  "description": "Common libraries for ticketing microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "microservices"
+  ],
+  "author": "Matias Duhalde",
+  "license": "MIT"
+}
